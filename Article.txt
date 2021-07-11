@@ -1,0 +1,61 @@
+
+
+
+
+what is the purpose of Data Visualation ?
+
+eight principles of Communicating through Data
+Choossing Visualation
+
+Data Visulation is the process of converting raw data in to easily understood
+pictures of information that enable fast and effectve decissions.
+
+Benefits of Data Visualation
+
+It allows users see several different perspectives of the data
+It makes it possible to interpret vast amounts of data
+It offers the ability to note exceptions in the data
+It allows the user to analyze visual patterns in the data
+Exploring trends within a database through visualtion by letting analysts
+navigate through data and visuallay oirent themselves to the patterns in the data
+
+
+Businessess realize that a visual can communicate more information
+than a table and in a much smaller place
+
+Data Visualation leads to better understanding and allows for better
+business decisions accurately and quickly
+
+Manipulate and interact direcly & easily with the data
+facilitate data analyticcs & data discovery
+identify trens and Patterns
+inform business decissions
+
+Planned
+Un planned
+
+Not having the personal personnel schedule for the repair
+Not having parts you need available
+Premature component failures
+Your machine is doing nothing
+
+Expensive repiarts
+component failures
+productivity loss
+
+electronic sensors
+fluid samples
+machine repair histories
+routine equipment inspections
+https://www.youtube.com/watch?v=Q2DnP4GOkLY
+https://www.youtube.com/watch?v=sMw5G8FSbdI
+
+
+
+
+
+
+
+
+
+
