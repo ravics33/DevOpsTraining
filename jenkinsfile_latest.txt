@@ -2,14 +2,7 @@ pipeline {
    agent any
 
    stages {
-      stage('SCM Checkout') 
-      {
-         steps {
-            // Get some code from a GitHub repository
-            git credentialsId: 'GitHUB', url: 'https://github.com/ravics33/DevOpsTraining.git'
-                 
-                   }
-      }
+      
       stage('Build') {
          steps {
                 sh 'mvn clean test'
