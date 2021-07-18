@@ -19,7 +19,7 @@
     <repository>
         <id>Nexus</id>
         <name>releases</name>
-        <url>http://ec2-18-188-73-122.us-east-2.compute.amazonaws.com:8081/repository/sampleproject/</url>
+        <url>http://ec2-3-131-91-193.us-east-2.compute.amazonaws.com:8081/repository/sampleproject/</url>
     </repository>    
     <snapshotRepository>
         <id>snapshots</id>
